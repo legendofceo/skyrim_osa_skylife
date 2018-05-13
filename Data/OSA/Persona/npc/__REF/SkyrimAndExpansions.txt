@@ -1,0 +1,15 @@
+#Reference to NPC's in the SkyLife project by first name.
+#Must stay alphabetical based on name.
+-----------------------------------------------------------------------------
+
+Aela		skyrim 		01A696
+Annekke		skyrim 		013666
+Camilla		skyrim 		01347B
+Elisif		skyrim 		01326A
+Lydia		skyrim 		0A2C8E
+Mjoll		skyrim 		01336B
+Sapphire	skyrim 		0C19A3
+Serana 		dawnguard 	002B6C
+Sylgja		skyrim 		0C3A3F
+Vex		skyrim 		01CD90
+Ysolda		skyrim 		013BAB

@@ -1,0 +1,14 @@
+﻿<global></global>	
+
+<properties>
+<nameFirst v="Fione"/>
+<nameLast v=""/>
+<race v="Nord"/>
+</properties>	
+
+<command>
+<name v="{nameFirst}"/>	
+<race v="{race}"/>
+<height v="67" units="1"/>
+<weight v="135" units="1"/>
+</command>
