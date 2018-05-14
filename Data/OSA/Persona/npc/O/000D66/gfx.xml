@@ -1,17 +1,21 @@
-﻿<skinRGB v="85ACDB"/>
-<tenderRGB v="3D2489"/>
-<hairRGB v="D63838"/>
-<lipsRGB v="3D2489"/>
-<eyesRGB v="3D2489"/>
-<nippleRGB v="3D2489"/>
-<blushRGB v="3D2489"/>
+<skinRGB v="FEC3B1"/>
+<tenderRGB v="E89592"/>
+<hairRGB v="3D332C"/>
+<lipsRGB v="D55E50"/>
+<eyesRGB v="1C75BC"/>
+<blushRGB v="4C2B26"/>
+<eyeshadowRGB v="4C2B26"/>
+<eyelinerRGB v="4C2B26"/>
+<nippleRGB v="E89592"/>
+<nailpolishRGB v="FF1D74"/>
+<nailfrenchRGB v="FFFFFF"/>
+<mgenRGB v="FEC3B1"/>
+<fgenRGB v="F98A8A"/>
 <bruiseRGB v="3D2489"/>
-<bloodRGB v="3D2489"/>
-<mgenRGB v="85ACDB"/>
-<fgenRGB v="85ACDB"/>
-<nailpolishRGB v="FFDE17"/>
-<eyeshadowRGB v="CCA66C"/>
+<bloodRGB v="B2221F"/>
 <attireOptions xxDisable="1" />
-<mgenOptions has="1", size="2" />
-<hasMaleAnatomy v="1"/>
-<mgenGraphicsSize v="2"/>
+<intlowRGB v="59CAF5"/>
+<shirtRGB v="444343"/>
+<pantsRGB v="444343"/>
+<socksRGB v="444343"/>
+<mgenOptions has="0", size="0" />
