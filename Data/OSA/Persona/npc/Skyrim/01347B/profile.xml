@@ -1,13 +1,13 @@
 ﻿<global></global>	
 
 <properties>
-<nameFirst v="Fione"/>
-<nameLast v=""/>
-<race v="Nord"/>
+<nameFirst v="Camilla"/>
+<nameLast v="Valerius"/>
+<race v="Imperial"/>
 </properties>	
 
 <command>
-<name v="{nameFirst}"/>	
+<name v="{nameFirst} {nameLast}"/>	
 <race v="{race}"/>
 <height v="67" units="1"/>
 <weight v="135" units="1"/>
