@@ -1,14 +1,23 @@
-﻿<global></global>	
+<global></global>	
 
 <properties>
 <nameFirst v="Fione"/>
-<nameLast v=""/>
-<race v="Nord"/>
+<nameLast v="Gesviene"/>
+<race v="Hume"/>
+<title v="OSex PR Representative & Training Specialist"/>
+<color v="e86570"/>
+<age v="28"/>
+<children v="0"/>
+<bodytype v="Phat"/>	
+<class v="PantyKnight"/>
+<birthplace v="Omni-1"/>
 </properties>	
 
 <command>
-<name v="{nameFirst}"/>	
+<name v="{nameFirst} {nameLast}"/>	
 <race v="{race}"/>
-<height v="67" units="1"/>
-<weight v="135" units="1"/>
+<title v="{title}"/>
+<class v="{class}"/>
+<height v="69" units="1"/>
+<weight v="142" units="1"/>
 </command>
