@@ -17,7 +17,6 @@
 <name v="{nameFirst} {nameLast}"/>	
 <race v="{race}"/>
 <title v="{title}"/>
-<class v="{class}"/>
 <height v="69" units="1"/>
 <weight v="142" units="1"/>
 </command>
