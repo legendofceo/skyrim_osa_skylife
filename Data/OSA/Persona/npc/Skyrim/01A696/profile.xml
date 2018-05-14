@@ -1,14 +1,16 @@
-﻿<global></global>	
+<global></global>	
 
 <properties>
-<nameFirst v="Fione"/>
+<nameFirst v="Aela"/>
 <nameLast v=""/>
+<title v="The Huntress"/>
 <race v="Nord"/>
 </properties>	
 
 <command>
 <name v="{nameFirst}"/>	
 <race v="{race}"/>
+<title v="{title}"/>
 <height v="67" units="1"/>
 <weight v="135" units="1"/>
 </command>
